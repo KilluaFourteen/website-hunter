@@ -25,7 +25,7 @@ a:focus {
 }
 
 #wrapper #content-wrapper {
-    background-color: #0B1622;
+    background-color: #FFFFFF;
     width: 100%;
     overflow-x: hidden
 }
@@ -579,23 +579,23 @@ a:focus {
 }
 
 .topbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
-    color: #9A77FD;
+    color: #FFFFFF;
     transition: all .3s ease-in-out;
     -webkit-transition: all .3s ease-in-out
 }
 
 .topbar.navbar-light .navbar-nav .nav-item .nav-link:active {
-    color: #9A77FD
+    color: #FFFFFF
 }
 
 .bg-navbar {
-    background-color: #152232
+    background-color: #FFFFFF
 }
 
 .sidebar {
     min-height: 100vh;
     width: 14rem!important;
-    background-color: #152232!important;
+    background-color: #FFFFFF!important;
     -webkit-box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15)!important;
     box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15)!important;
     z-index: 0
@@ -706,7 +706,7 @@ a:focus {
 
 .sidebar .nav-item .collapse .collapse-inner .collapse-item:hover,
 .sidebar .nav-item .collapsing .collapse-inner .collapse-item:hover {
-    background-color: #9A77FD;
+    background-color: #FFFFFF;
     transition: all .3s ease-in-out;
     -webkit-transition: all .3s ease-in-out
 }
@@ -827,7 +827,7 @@ a:focus {
     -webkit-box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15);
     box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15);
     border-radius: .35rem;
-    background-color: #152232;
+    background-color: #FFFFFF;
 }
 
 .sidebar.toggled .nav-item .collapsing {
@@ -980,7 +980,7 @@ a:focus {
     }
     .sidebar.toggled .nav-item .collapse .collapse-inner .collapse-item:hover,
     .sidebar.toggled .nav-item .collapsing .collapse-inner .collapse-item:hover {
-        background-color: #9A77FD;
+        background-color: #FFFFFF;
         transition: all .3s ease-in-out;
         -webkit-transition: all .3s ease-in-out
     }
@@ -1054,11 +1054,11 @@ a:focus {
 
 .sidebar-light .sidebar-brand {
     color: #d3d5f3;
-    background-color: #152232
+    background-color: #FFFFFF
 }
 
 .sidebar-light hr.sidebar-divider {
-    border-top: 1px solid #0B1622
+    border-top: 1px solid #FFFFFF
 }
 
 .sidebar-light .sidebar-heading {
@@ -1078,7 +1078,7 @@ a:focus {
 .sidebar-light .nav-item .nav-link:focus,
 .sidebar-light .nav-item .nav-link:hover {
     color: #fff;
-    background-color: #9A77FD
+    background-color: #FFFFFF
 }
 
 .sidebar-light .nav-item .nav-link:active i,
