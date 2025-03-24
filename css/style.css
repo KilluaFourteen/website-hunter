@@ -1,8 +1,8 @@
 body.dark-mode {
     --bg-opacity: 1;
-    background-color: #1a202c;
+    background-color: #FFFFFF;
     background-color: rgba(26, 32, 44, var(--bg-opacity));
-    color: #d3d5f3;
+    color: #37FFE5;
 }
 
 .card-body {
